@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Impana J</h1>
-<h3 align="center">-I am a 2nd year CSE Student at Dayananda Sagar College of Engineering,Bangalore.</h3>
+<h6 align="center">-I am a 2nd year CSE Student at Dayananda Sagar College of Engineering,Bangalore.</h6>
 
 - 🔭 I’m currently working on **enhancing my programming skills and problem solving ability.**
 
