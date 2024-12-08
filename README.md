@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Impana J</h1>
-<h4 align="center">-I am a 2nd year CSE Student at Dayananda Sagar College of Engineering,Bangalore.</h4>
+<h4 align="center">-I am a 3rd year CSE Student at Dayananda Sagar College of Engineering,Bangalore.</h4>
 
 - 🔭 I’m currently working on **enhancing my programming skills and problem solving ability.**
 
-- 🌱 I’m currently learning **Data structures ,Web Development and python programming.**
+- 🌱 I’m currently learning **Machine Learning and Web Development.**
 
 - 📫 How to reach me **impanajgowda14@gmail.com**
 
