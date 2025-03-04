@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **enhancing my programming skills and problem solving ability.**
 
-- 🌱 I’m currently learning **Machine Learning and Web Development.**
+- 🌱 I’m currently learning **DSA and Web Development.**
 
 - 📫 How to reach me **impanajgowda14@gmail.com**
 
