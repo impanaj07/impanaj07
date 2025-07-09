@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Impana J</h1>
 <p align="center">
+ <a>
  ![Profile views](https://komarev.com/ghpvc/?username=impanaj07&label=Profile%20views&color=0e75b6&style=flat)
+ </a>
 </p>
 
 <h4 align="center">- I am a 3rd year CSE Student at Dayananda Sagar College of Engineering, Bangalore.</h4>
