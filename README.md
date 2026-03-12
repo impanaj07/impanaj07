@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impanaj07&label=Profile%20views&color=0e75b6&style=flat" alt="impanaj07" /> </p>
 
-- 🔭 I’m currently working on **enhancing my programming skills and problem-solving ability.**
+- 🔭 I’m currently working as Data Science and AI Intern at KOCH.
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **MCP Servers**
 
 - 📫 How to reach me **impanajgowda14@gmail.com**
 
