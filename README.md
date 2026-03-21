@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impanaj07&label=Profile%20views&color=0e75b6&style=flat" alt="impanaj07" /> </p>
 
-- 🔭 I’m currently working as Data Science and AI Intern at KOCH.
-
-- 🌱 I’m currently learning **MCP Servers**
+- 🔭 I’m currently working on Agentic AI
+- 🌱 I’m currently learning **Strands Agents**
 
 - 📫 How to reach me **impanajgowda14@gmail.com**
 
