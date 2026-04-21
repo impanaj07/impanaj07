@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impanaj07&label=Profile%20views&color=0e75b6&style=flat" alt="impanaj07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impanaj07" alt="impanaj07" /></a> </p>
-
+![Impana's GitHub stats](https://github-readme-stats.vercel.app/api?username=impanaj07&show_icons=true&theme=radical)
 - 🔭 I’m currently working on **newsanalyzer**
 
 - 🌱 I’m currently learning **Python and Strands Agents**
